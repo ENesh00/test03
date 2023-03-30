@@ -9,3 +9,5 @@
 ## 보존된 푸치 프로필 목록
 * [Puchi1](etc/puchi/Puchi1)
 * [Puchi2](etc/puchi/Puchi2)
+* [Puchi3](etc/puchi/Puchi3)
+* [Puchi4](etc/puchi/Puchi4)
